@@ -18,9 +18,4 @@ Features
 		
 		
 
-Rain
-	Two strands
-	raining down
-	factor in the serpentine
-	randomize the start of the rain and the speed per upright
 
