@@ -1,0 +1,26 @@
+Features
+	Bluetooth
+	X/Y matrix
+	Scroll through effects
+	Effects
+		Rain
+			array[strands] with random velocity
+			Single iterator for time
+			Find distance along the strand 
+			modulo to the strand length
+			
+		Fish swimming
+		Shimmer
+		Robocop Sweep
+		
+		Equalizer
+		look at winamp vsualizations
+		
+		
+
+Rain
+	Two strands
+	raining down
+	factor in the serpentine
+	randomize the start of the rain and the speed per upright
+
